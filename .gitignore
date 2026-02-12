@@ -1,0 +1,9 @@
+# data path
+data/raw
+data/processed
+
+# model/processed data 
+artifacts
+
+# venv
+myenv
