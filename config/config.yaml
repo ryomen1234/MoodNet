@@ -1,4 +1,8 @@
 data_ingestion:
      source_data_path: data/interim/archive.zip
      raw_data_dir: data/raw
-     
+
+data_validation:
+     splits: ["train", "test"]
+     allowed_extension: [".jpeg", ".png", ".jpg"]
+     classes: ["angry", "disgusted", "fearful", "happy", "neutral", "sad", "surprised"]

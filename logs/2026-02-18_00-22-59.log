@@ -1,0 +1,11 @@
+2026-02-18 00:22:59,859 | INFO | src.components.data_validation | Starting data validation
+2026-02-18 00:22:59,859 | INFO | src.components.data_validation | Raw data path: data\raw
+2026-02-18 00:22:59,859 | INFO | src.components.data_validation | Splits: ['train', 'test']
+2026-02-18 00:22:59,859 | INFO | src.components.data_validation | Allowed extensions: ['.jpeg', '.png', '.jpg']
+2026-02-18 00:22:59,859 | INFO | src.components.data_validation | Classes: ['angry', 'disgusted', 'fearful', 'happy', 'neutral', 'sad', 'surprised']
+2026-02-18 00:22:59,859 | INFO | src.components.data_validation | Validating data splits
+2026-02-18 00:22:59,860 | INFO | src.components.data_validation | Split validation complete
+2026-02-18 00:22:59,867 | INFO | src.components.data_validation | Validating classes in train
+2026-02-18 00:22:59,868 | INFO | src.components.data_validation | Class validation complete
+2026-02-18 00:23:03,475 | INFO | src.components.data_validation | Validating classes in test
+2026-02-18 00:23:03,476 | INFO | src.components.data_validation | Class validation complete

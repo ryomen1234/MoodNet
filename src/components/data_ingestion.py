@@ -12,8 +12,8 @@ if not logger:
 
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig) -> None:
-        self.source_data_dir = Path(config.source_data_path)
-        self.raw_data_dir = Path(config.raw_data_path)
+        self.source_data_dir = config.source_data_path
+        self.raw_data_dir = config.raw_data_path
     
     def initialize_data_ingestion(self):
         logger.info("Data ingestion started.")
