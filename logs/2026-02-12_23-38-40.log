@@ -1,0 +1,13 @@
+2026-02-12 23:38:40,772 | INFO | src.components.data_ingestion | Data ingestion started.
+2026-02-12 23:38:40,773 | INFO | src.components.data_ingestion | Data source path: data\interim\archive.zip
+2026-02-12 23:38:40,773 | INFO | src.components.data_ingestion | Data extract path: data\raw
+2026-02-12 23:38:40,971 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:39:10,556 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:39:45,292 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:40:16,609 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:40:46,414 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:41:20,693 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:41:56,123 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:42:26,904 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:43:01,590 | INFO | src.components.data_ingestion | Extracting 35887 files from zip
+2026-02-12 23:43:34,573 | INFO | src.components.data_ingestion | Extracting 35887 files from zip

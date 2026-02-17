@@ -1,6 +1,7 @@
 # data path
 data/raw
 data/processed
+data
 
 # model/processed data 
 artifacts
