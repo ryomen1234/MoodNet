@@ -1,6 +1,6 @@
 import yaml
 from pathlib import Path
-from src.components.data_validation import DataValidation
+from src.data.data_validation import DataValidation
 from src.entity.config_entity import DataIngestionConfig, DataValidationConfig
 
 def validation_pipeline():

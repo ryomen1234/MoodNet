@@ -1,6 +1,6 @@
 import yaml
 from pathlib import Path
-from src.components.data_ingestion import DataIngestion
+from src.data.data_ingestion import DataIngestion
 from src.entity.config_entity import DataIngestionConfig
 
 def ingestion_pipeline():
