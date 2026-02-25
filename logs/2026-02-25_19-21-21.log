@@ -1,0 +1,20 @@
+2026-02-25 19:21:21,551 | INFO | src.models.model | Loaded pretrained ResNet18
+2026-02-25 19:21:21,552 | INFO | src.models.model | Replaced final layer with 7 classes
+2026-02-25 19:21:21,553 | INFO | src.models.train | Training and validation started
+2026-02-25 19:21:21,553 | INFO | src.models.train | criterion: CrossEntropyLoss()
+2026-02-25 19:21:21,554 | INFO | src.models.train | optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    decoupled_weight_decay: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+2026-02-25 19:21:21,554 | INFO | src.models.train | device: cpu
+2026-02-25 19:21:21,561 | INFO | src.models.train | number of epochs: 10

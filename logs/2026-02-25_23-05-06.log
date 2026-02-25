@@ -1,0 +1,8 @@
+2026-02-25 23:05:07,232 | INFO | src.models.model | Loaded pretrained ResNet18
+2026-02-25 23:05:07,234 | INFO | src.models.model | Replaced final layer with 7 classes
+2026-02-25 23:05:07,235 | INFO | src.models.train | Training and validation started
+2026-02-25 23:05:07,236 | INFO | src.models.train | criterion: CrossEntropyLoss()
+2026-02-25 23:05:07,236 | INFO | src.models.train | optimizer: Adam
+2026-02-25 23:05:07,236 | INFO | src.models.train | device: cpu
+2026-02-25 23:05:07,236 | INFO | src.models.train | number of epochs: 1
+2026-02-25 23:06:30,194 | INFO | src.models.train | Epoch [1/1] | Train Loss: 0.2064 | Val Loss: 0.1961 | Train Acc: 0.2993 | Val Acc: 0.0196
