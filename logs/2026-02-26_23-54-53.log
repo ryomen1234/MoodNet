@@ -1,0 +1,2 @@
+2026-02-26 23:54:53,756 | INFO | src.models.model | Loaded pretrained ResNet18
+2026-02-26 23:54:53,757 | INFO | src.models.model | Replaced final layer with 7 classes
